@@ -26,3 +26,12 @@ Consoles: 81
 Developers: 9K
 Most Sold Titles: A bar chart illustrates the total sales for several popular titles, with "Grand Theft Auto V" leading with 64.3M sales. Other prominent titles include "Call of Duty Black Ops," "Call of Duty Black Ops II," "Call of Duty Ghosts," "Call of Duty: Black Ops 3," "Minecraft," and "Grand Theft Auto IV."
 Additional Sections: The dashboard also features sections for "Best selling year," "Which game is popular in a re.....", and "Genre Specialization."
+
+Best selling year:
+This graph is a line graph illustrating the trend of "total sales" over time, specifically in the context of "video game analysis" and "Best selling year". 
+X-axis (Horizontal Axis): Represents the years, ranging from 1971 to 2023, indicating the passage of time.
+Y-axis (Vertical Axis): Represents "total sales" in millions, with labels at 200M, 400M, and 600M, showing the magnitude of sales.
+Line Plot: The red line connecting data points shows the change in total sales over these years, indicating fluctuations and trends in video game sales performance.
+Data Point Example: A specific data point highlighted in the image shows "1974" with "total sales 0," suggesting a very low or negligible sales figure in that particular year.
+
+Best Release year:
