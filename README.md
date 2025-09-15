@@ -13,3 +13,16 @@ Ip Sales: Sales figures from other regions (likely Europe/PAL region, given the 
 Other Sales: Sales figures from regions not covered by "Na Sales" or "Ip Sales."
 Release Date: The date when the game was initially launched.
 Last update: This likely refers to the "Last Update" or "Last Data" point recorded for sales or other metrics.
+
+Visualization
+Introduction: 
+The image displays a "Video game Analysis" dashboard, providing an overview of various statistics related to video game sales and titles.
+Key information presented includes:
+Scope of Analysis: Data covers video game sales from North America, Japan, the EU, Africa, and the rest of the world for 64,016 titles released between 1971 and 2024. It includes details such as critic score, genre, and console.
+Key Metrics:
+Games Released: 39.8K
+Total Game Sales: 6.6B
+Consoles: 81
+Developers: 9K
+Most Sold Titles: A bar chart illustrates the total sales for several popular titles, with "Grand Theft Auto V" leading with 64.3M sales. Other prominent titles include "Call of Duty Black Ops," "Call of Duty Black Ops II," "Call of Duty Ghosts," "Call of Duty: Black Ops 3," "Minecraft," and "Grand Theft Auto IV."
+Additional Sections: The dashboard also features sections for "Best selling year," "Which game is popular in a re.....", and "Genre Specialization."
