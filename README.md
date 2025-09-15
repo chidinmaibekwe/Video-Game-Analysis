@@ -39,3 +39,10 @@ The image displays a line graph titled "Best Release year." This graph illustrat
 
 which game is popular in a region but flops on another region:
 The length of each colored bar for a specific game indicates its sales volume in that particular region. By comparing the bar lengths for each game across the different regional sales categories, one can identify which games are popular in certain regions (longer bars) and which "flop" or have significantly lower sales in others (shorter or absent bars). For example, "Grand Theft" shows high sales in multiple regions, while games like "Famista '89" or "Ninja Hattor" might show strong performance in one specific region (e.g., "Other_sales" which could represent Japan for these titles) but minimal sales in others.
+
+Genre specialization:
+The image displays a bar chart representing a "video game analysis" focused on "genre Specialization" across various gaming consoles.
+This chart illustrates the distribution or popularity of different video game genres on specific Consoles:
+Genres: The chart categorizes games into genres including Miscellaneous (Misc), Racing, Action, Adventure, Role-Playing, Sports, Shooter, Platform, Strategy, and Puzzle.
+Platforms: The analysis covers multiple gaming consoles such as PC, PS7, DS, PS4, PS, NS, PSN, and PSO.
+Data Representation: The height of each bar indicates a numerical value (likely sales or popularity units, up to 2000 on the y-axis) for a particular genre on a given console. For instance, the chart shows the "Action" genre appears to have a significant presence on console like PC and PS4, while "Racing" also shows strong numbers on PC.
