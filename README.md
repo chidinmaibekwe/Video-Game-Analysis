@@ -36,3 +36,6 @@ Data Point Example: A specific data point highlighted in the image shows "1974" 
 
 Best Release year:
 The image displays a line graph titled "Best Release year." This graph illustrates a trend over time, specifically showing a measure related to "releases" (likely a count or value) on the y-axis, ranging from 0 to 6K, against the corresponding release year on the x-axis, spanning from 1971 to 2023. The red line on the graph visually represents how this measure of releases has evolved across these years. 
+
+which game is popular in a region but flops on another region:
+The length of each colored bar for a specific game indicates its sales volume in that particular region. By comparing the bar lengths for each game across the different regional sales categories, one can identify which games are popular in certain regions (longer bars) and which "flop" or have significantly lower sales in others (shorter or absent bars). For example, "Grand Theft" shows high sales in multiple regions, while games like "Famista '89" or "Ninja Hattor" might show strong performance in one specific region (e.g., "Other_sales" which could represent Japan for these titles) but minimal sales in others.
