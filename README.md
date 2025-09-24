@@ -15,7 +15,7 @@ This dataset located at the xlxs file in the repository provides information abo
 - Release Date: The date when the game was initially launched.
 - Last update: This likely refers to the "Last Update" or "Last Data" point recorded for sales or other metrics.
 
-## DATA VISUALIZATION
+# DATA VISUALIZATION
 
 ## INTRODUCTION: 
 This project provides a comprehensive analysis of video game sales and trends, presented through an interactive dashboard, potentially built with Looker Studio. 
