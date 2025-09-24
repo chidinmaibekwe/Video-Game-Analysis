@@ -16,26 +16,42 @@ This dataset located at the xlxs file in the repository provides information abo
 - Last update: This likely refers to the "Last Update" or "Last Data" point recorded for sales or other metrics.
 
 ## DATA VISUALIZATION
+
 ## INTRODUCTION: 
+This project provides a comprehensive analysis of video game sales and trends, presented through an interactive dashboard, potentially built with Looker Studio. 
 
-## Most Sold Titles:
-A bar chart illustrates the total sales for several popular titles, with "Grand Theft Auto V" leading with 64.3M sales. Other prominent titles include "Call of Duty Black Ops," "Call of Duty Black Ops II," "Call of Duty Ghosts," "Call of Duty: Black Ops 3," "Minecraft," and "Grand Theft Auto IV."
-Additional Sections: The dashboard also features sections for "Best selling year," "Which game is popular in a re.....", and "Genre Specialization."
+## Project scope:
+The analysis covers video game sales data from North America, Japan, the EU, Africa, and the rest of the world. It includes information on 64,016 titles released between 1971 and 2024, incorporating details such as critic scores, genres, and console platforms.
 
-Best selling year:
+## Key Data Points & Insights
+- Total Games Released: 39.8K titles.
+- Total Game Sales: 6.6 Billion units.
+- Developers: Data from 9K developers.
+- Most Sold Titles: A bar chart highlights top-selling games by total sales, including:
+* Grand Theft Auto V (48.3M)
+* Call of Duty Black Ops (31M)
+* Call of Duty: Black Ops II (30.7M)
+* Call of Duty Ghosts (29.6M)
+* Call of Duty Black Ops 3 (28.6M)
+* Minecraft (26.7M)
+* Grand Theft Auto IV (25M)
+
+Additional Sections: The dashboard also features sections for "Best selling year," "Which game is popular in a region", and "Genre Specialization."
+
+## BEST SELLING YEAR:
 The graph is a line graph illustrating the trend of "total sales" over time, specifically in the context of "video game analysis" and "Best selling year". 
 X-axis (Horizontal Axis): Represents the years, ranging from 1971 to 2023, indicating the passage of time.
 Y-axis (Vertical Axis): Represents "total sales" in millions, with labels at 200M, 400M, and 600M, showing the magnitude of sales.
 Line Plot: The red line connecting data points shows the change in total sales over these years, indicating fluctuations and trends in video game sales performance.
 Data Point Example: A specific data point highlighted in the image shows "1974" with "total sales 0," suggesting a very low or negligible sales figure in that particular year.
 
-Best Release year:
+## BEST RELEASE YEAR:
 The image displays a line graph titled "Best Release year." This graph illustrates a trend over time, specifically showing a measure related to "releases" (likely a count or value) on the y-axis, ranging from 0 to 6K, against the corresponding release year on the x-axis, spanning from 1971 to 2023. The red line on the graph visually represents how this measure of releases has evolved across these years. 
 
-which game is popular in a region but flops on another region:
+## WHICH GAME IS POPULAR IN A REGION BUT FLOPS ON ANOTHER REGION 
 The length of each colored bar for a specific game indicates its sales volume in that particular region. By comparing the bar lengths for each game across the different regional sales categories, one can identify which games are popular in certain regions (longer bars) and which "flop" or have significantly lower sales in others (shorter or absent bars). For example, "Grand Theft" shows high sales in multiple regions, while games like "Famista '89" or "Ninja Hattor" might show strong performance in one specific region (e.g., "Other_sales" which could represent Japan for these titles) but minimal sales in others.
 
-Genre specialization:
+GENRE SPECIALIZATION:
 The image displays a bar chart representing a "video game analysis" focused on "genre Specialization" across various gaming consoles.
 This chart illustrates the distribution or popularity of different video game genres on specific Consoles:
 Genres: The chart categorizes games into genres including Miscellaneous (Misc), Racing, Action, Adventure, Role-Playing, Sports, Shooter, Platform, Strategy, and Puzzle.
