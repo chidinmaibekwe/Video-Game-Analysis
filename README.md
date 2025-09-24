@@ -23,18 +23,22 @@ This project provides a comprehensive analysis of video game sales and trends, p
 ## Project scope:
 The analysis covers video game sales data from North America, Japan, the EU, Africa, and the rest of the world. It includes information on 64,016 titles released between 1971 and 2024, incorporating details such as critic scores, genres, and console platforms.
 
-## Key Data Points & Insights
+## Key Data Points & Insights:
 - Total Games Released: 39.8K titles.
 - Total Game Sales: 6.6 Billion units.
+- Console: 81
 - Developers: Data from 9K developers.
 - Most Sold Titles: A bar chart highlights top-selling games by total sales, including:
-* Grand Theft Auto V (48.3M)
+* Grand Theft Auto V (64.3M)
 * Call of Duty Black Ops (31M)
-* Call of Duty: Black Ops II (30.7M)
-* Call of Duty Ghosts (29.6M)
-* Call of Duty Black Ops 3 (28.6M)
-* Minecraft (26.7M)
-* Grand Theft Auto IV (25M)
+* Call of Duty: Modern Warfare 3 (30.7M)
+* Call of Duty: Black Ops II (29.6M)
+* Call of Duty Ghosts (28.8M)
+* Call of Duty Black Ops 3 (26.7M)
+* Call of Duty: Modern Warfare 2 (25M)
+* Minecraft (24M)
+* Grand Theft Auto IV (22.5M)
+* Call of Duty: Advanced Warfare (21.8M)
 
 Additional Sections: The dashboard also features sections for "Best selling year," "Which game is popular in a region", and "Genre Specialization."
 
