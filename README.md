@@ -1,5 +1,5 @@
 # DATA DESCRIPTION
-This dataset located at the xlxs file in the repository provides information about various video games, including details about their development, reception, and sales figures. It is structured to allow for analysis of game performance in the world across different platforms and genres.
+This dataset located at the xlxs file in the repository provides information about various video games sales, including details about their development, reception, and sales figures. It is structured to allow for analysis of game performance in the world across different platforms and genres.
 
 ## Dataset Columns:
 - Title: The name of the video game.
